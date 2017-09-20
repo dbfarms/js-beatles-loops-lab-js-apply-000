@@ -24,5 +24,6 @@ function iLoveTheBeatles(num) {
   var emptyarray = []
   do {
     emptyarray += "I love the Beatles!"
+    num++
   } while ()
 }
