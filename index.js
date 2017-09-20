@@ -1,6 +1,6 @@
 function theBeatlesPlay(musicians, instruments) {
   var playswhat = []
-  var string 
+  var string
   for (var i = 0; i < musicians.length; i++) {
     string = `${musicians[i]} plays ${instruments[i]}`
     playswhat.push(string)
@@ -9,6 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
   }
  } */
   }
-  return playswhat.join(", ") + "."
+  return playswhat.join(", ")
 
 }
