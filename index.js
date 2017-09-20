@@ -25,5 +25,5 @@ function iLoveTheBeatles(num) {
   do {
     emptyarray += "I love the Beatles!"
     num++
-  } while ()
+  } while (num < 15)
 }
