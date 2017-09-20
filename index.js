@@ -7,6 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
     playswhat += `${musicians[i]} plays ${instruments[i]}.`
   }
  } */
+  }
   return playswhat.join(", ") + "."
 
 }
