@@ -19,3 +19,10 @@ function johnLennonFacts(facts) {
   }
   return facts
 }
+
+function iLoveTheBeatles(num) {
+  var emptyarray = []
+  do {
+    emptyarray += "I love the Beatles!"
+  } while ()
+}
