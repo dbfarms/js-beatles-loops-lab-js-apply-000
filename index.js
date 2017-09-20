@@ -9,6 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
   }
  } */
   }
-  return playswhat.join(", ")
+  return playswhat
 
 }
